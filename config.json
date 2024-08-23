@@ -1,0 +1,12 @@
+
+{
+    "server": {
+        "port": 8080
+    },
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "1130",
+        "database": "clinica"
+    }
+}
