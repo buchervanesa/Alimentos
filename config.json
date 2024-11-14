@@ -7,6 +7,8 @@
         "host": "localhost",
         "user": "root",
         "password": "1130",
-        "database": "clinica"
-    }
+        "database": "kiosco_escolar"
+    },
+
+   "jwtSecret": "mySuperSecretKey"
 }
